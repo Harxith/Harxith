@@ -3,7 +3,7 @@
 
   <h3 align="center" style="border: none;" >I'm Harshith</h3> 
   <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItachiPrime.ItachiPrime&left_color=black&right_color=springgreen"  height="20px"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Itachi-X8.Itachi-X8&left_color=black&right_color=springgreen"  height="20px"/>
   </div>
   <br>
   <p align="center" >Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
@@ -59,15 +59,15 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItachiPrime&rank_icon=github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=prs" alt="Itachi's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItachiPrime&layout=compact&locale=en&hide_title=false&card_width=380&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itachi-X8&rank_icon=github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=prs" alt="Itachi's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi-X8&layout=compact&locale=en&hide_title=false&card_width=380&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItachiPrime/ItachiPrime/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItachiPrime/ItachiPrime/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ItachiPrime/ItachiPrime/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itachi-X8/Itachi-X8/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itachi-X8/Itachi-X8/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Itachi-X8/Itachi-X8/output/github-snake.svg" />
 </picture>
 
 <div></div>
