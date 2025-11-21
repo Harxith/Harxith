@@ -53,15 +53,15 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itachi-X8&rank_icon=github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=prs" alt="Itachi's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi-X8&layout=compact&locale=en&hide_title=false&card_width=380&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harxith&rank_icon=github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=prs" alt="Itachi's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harxith&layout=compact&locale=en&hide_title=false&card_width=380&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itachi-X8/Itachi-X8/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itachi-X8/Itachi-X8/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Itachi-X8/Itachi-X8/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harxith/Harxith/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harxith/Harxith/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Harxith/Harxith/output/github-snake.svg" />
 </picture>
 
 <div></div>
