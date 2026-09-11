@@ -22,10 +22,10 @@
 <h3 align="center" >Projects</h3>
 
 <div align="center">
-   <a href="https://github.com/Harxhith/BatVault">
+  <a href="https://github.com/harxhithc/BatVault">
     <img src="https://img.shields.io/badge/BatVault-000000?style=for-the-badge&logo=vault&logoColor=white">
   </a>
-  <a href="https://github.com/Harxhith/Ghost32">
+  <a href="https://github.com/harxhithc/Ghost32">
     <img src="https://img.shields.io/badge/Ghost32-4A4A4A?style=for-the-badge&logo=espressif&logoColor=white">
   </a>
   <a href="https://github.com/harxhithc/Cipher">
